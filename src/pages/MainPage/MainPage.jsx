@@ -1,5 +1,7 @@
+import Common from "../../components/Common";
+
 const MainPage = () => {
-  return <div>MainPage</div>;
+  return <Common />;
 };
 
 export default MainPage;
