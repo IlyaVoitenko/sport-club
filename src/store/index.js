@@ -11,6 +11,8 @@ import {
   REGISTER,
 } from "redux-persist";
 import authReducer from "./reducers/auth";
+import playersReducer from "./reducers/players";
+import teamsReducer from "./reducers/teams";
 
 const persistConfig = {
   key: "root",
@@ -18,6 +20,8 @@ const persistConfig = {
 };
 const rootReducer = combineReducers({
   auth: authReducer,
+  players: playersReducer,
+  teams: teamsReducer,
 });
 const persistedReducer = persistReducer(persistConfig, rootReducer);
 
