@@ -52,7 +52,7 @@ const Auth = () => {
               if (login === "user" && password === "user") {
                 dispatch(setIsAuth());
                 dispatch(setIsMessageError(false));
-                return navigate("/main");
+                return navigate("/choose-team");
               }
               dispatch(setIsMessageError(true));
             }}

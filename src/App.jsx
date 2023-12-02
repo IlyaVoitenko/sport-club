@@ -5,7 +5,8 @@ import Layout from "./components/Layout";
 import ProtectedRoutes from "./utils/ProtectedRoutes";
 
 const AuthPage = lazy(() => import("./pages/AuthPage"));
-const MainPage = lazy(() => import("./pages/MainPage"));
+const PlayersPage = lazy(() => import("./pages/PlayersPage"));
+const ChooseTeamPage = lazy(() => import("./pages/ChooseTeamPage"));
 
 function App() {
   return (
@@ -14,7 +15,8 @@ function App() {
         <Route path="/" element={<Layout />}>
           <Route index element={<AuthPage />} />
           <Route element={<ProtectedRoutes />}>
-            <Route path="/main" element={<MainPage />} />
+            <Route path="/players" element={<PlayersPage />} />
+            <Route path="/choose-team" element={<ChooseTeamPage />} />
           </Route>
         </Route>
       </Routes>
