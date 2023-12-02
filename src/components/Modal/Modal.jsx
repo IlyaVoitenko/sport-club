@@ -23,8 +23,9 @@ const Modal = () => {
             <p className="text-gray-400">Weight: {Weight}</p>
             <p className="text-gray-400">Country: {Country}</p>
           </div>
-          <div className="flex justify-center items-center">
+          <div className="flex flex-col justify-center items-center">
             <img src={flagCountryPlayer(Country)} className=" w-32" />
+            <h1 className="font-bold">{Alias}</h1>
           </div>
         </div>{" "}
       </div>
