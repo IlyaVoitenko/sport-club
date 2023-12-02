@@ -3,7 +3,7 @@ import { checkNavigateForTable } from "../../../../utils/helper";
 import { useDispatch } from "react-redux";
 
 const TableBodyItem = ({ index, item, page }) => {
-  const itemFields = Object.keys(item);
+  let itemFields = Object.keys(item).slice(0, 4);
   const dispatch = useDispatch();
   const navigate = useNavigate();
   return (

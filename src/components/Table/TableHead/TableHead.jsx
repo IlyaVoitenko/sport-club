@@ -1,10 +1,9 @@
 import lodash from "lodash";
 
-// eslint-disable-next-line react/prop-types
-const TableHead = ({ list }) => {
+const TableHead = ({ list, page }) => {
   if (lodash.isEmpty(list)) return null;
+  const fieldsList = Object.keys(...list).slice(0, 4);
 
-  const fieldsList = Object.keys(...list);
   return (
     <thead className="text-xs text-gray-700 uppercase text-left bg-gray-200 dark:bg-neutral-900  dark:text-white">
       <tr>

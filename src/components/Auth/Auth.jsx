@@ -4,6 +4,7 @@ import { useNavigate } from "react-router-dom";
 import { setIsMessageError, setIsAuth } from "../../store/reducers/auth";
 import { isAuthSelector } from "../../store/selectors";
 import { Button, Card, Label, TextInput } from "flowbite-react";
+import { persistor } from "../../store";
 
 const Auth = () => {
   const navigate = useNavigate();
@@ -13,7 +14,11 @@ const Auth = () => {
   const dispatch = useDispatch();
 
   useEffect(() => {
-    console.log(isAuth);
+    persistor.purge();
+  }, []);
+
+  useEffect(() => {
+    console.log();
   }, [isAuth]);
 
   return (
