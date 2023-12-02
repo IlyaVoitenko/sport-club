@@ -1,0 +1,282 @@
+[
+  {
+    "Role": "goalkeeper",
+    "Name": "Назар Бойко",
+    "Alias": 72,
+    "Birthday": "16.01.2006",
+    "Stick_grip": "Левый",
+    "Height": 180,
+    "Weight": 65,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "goalkeeper",
+    "Name": "Ярослав Андрійчук",
+    "Alias": 1,
+    "Birthday": "13.05.2005",
+    "Stick_grip": "Левый",
+    "Height": 175,
+    "Weight": 67,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "goalkeeper",
+    "Name": "Боріс Бабік",
+    "Alias": 35,
+    "Birthday": "02.10.1997",
+    "Stick_grip": "Левый",
+    "Height": 187,
+    "Weight": 87,
+    "Country": " Slovakia"
+  },
+  {
+    "Role": "defender",
+    "Name": "Павло Таран",
+    "Alias": 2,
+    "Birthday": "04.05.1992",
+    "Stick_grip": "Левый",
+    "Height": 190,
+    "Weight": 95,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "defender",
+    "Name": "Денис Хонін",
+    "Alias": 24,
+    "Birthday": "24.06.1989",
+    "Stick_grip": "Правый",
+    "Height": 190,
+    "Weight": 93,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "defender",
+    "Name": "Костянтин Рябенко",
+    "Alias": 38,
+    "Birthday": "26.04.1983",
+    "Stick_grip": "Левый",
+    "Height": 189,
+    "Weight": 100,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "defender",
+    "Name": "Тимур Лапко",
+    "Alias": 27,
+    "Birthday": "16.02.2006",
+    "Stick_grip": "Левый",
+    "Height": 187,
+    "Weight": 86,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "defender",
+    "Name": "Еету Моксунен",
+    "Alias": 21,
+    "Birthday": "4.07.1997",
+    "Stick_grip": "Правый",
+    "Height": 182,
+    "Weight": 84,
+    "Country": " Finland"
+  },
+  {
+    "Role": "defender",
+    "Name": "Валентин Сірченко",
+    "Alias": 78,
+    "Birthday": "10.05.1994",
+    "Stick_grip": "Левый",
+    "Height": 176,
+    "Weight": 82,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "defender",
+    "Name": "Антон Сичинський",
+    "Alias": 22,
+    "Birthday": "03.10.2005",
+    "Stick_grip": "Левый",
+    "Height": 185,
+    "Weight": 76,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "defender",
+    "Name": "Деніс Берднікс",
+    "Alias": 77,
+    "Birthday": "22.11.1999",
+    "Stick_grip": "Правый",
+    "Height": 188,
+    "Weight": 85,
+    "Country": " Latvia"
+  },
+  {
+    "Role": "defender",
+    "Name": "Колін Уітт",
+    "Alias": 33,
+    "Birthday": "03.06.1995",
+    "Stick_grip": "Левый",
+    "Height": 185,
+    "Weight": 88,
+    "Country": "USA"
+  },
+  {
+    "Role": "striker",
+    "Name": "Микита Олійник",
+    "Alias": 98,
+    "Birthday": "21.07.1998",
+    "Stick_grip": "Левый",
+    "Height": 184,
+    "Weight": 77,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "striker",
+    "Name": "Владислав Куцевич",
+    "Alias": 88,
+    "Birthday": "08.04.1994",
+    "Stick_grip": "Левый",
+    "Height": 181,
+    "Weight": 82,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "striker",
+    "Name": "Данило Тищенко",
+    "Alias": 11,
+    "Birthday": "29.07.2000",
+    "Stick_grip": "Левый",
+    "Height": 188,
+    "Weight": 84,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "striker",
+    "Name": "Микола Дворник",
+    "Alias": 8,
+    "Birthday": "21.05.1995",
+    "Stick_grip": "Левый",
+    "Height": 177,
+    "Weight": 73,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "striker",
+    "Name": "Олександр Древаль",
+    "Alias": 42,
+    "Birthday": "29.05.2006",
+    "Stick_grip": "Левый",
+    "Height": 174,
+    "Weight": 68,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "striker",
+    "Name": "Дмитро Утукін",
+    "Alias": 26,
+    "Birthday": "25.09.2005",
+    "Stick_grip": "Правый",
+    "Height": 181,
+    "Weight": 73,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "striker",
+    "Name": "Андрій Кривоножкін",
+    "Alias": 28,
+    "Birthday": "08.02.2003",
+    "Stick_grip": "Левый",
+    "Height": 195,
+    "Weight": 110,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "striker",
+    "Name": "Сергій Черненко",
+    "Alias": 18,
+    "Birthday": "16.02.1984",
+    "Stick_grip": "Правый",
+    "Height": 189,
+    "Weight": 83,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "striker",
+    "Name": "Олександр Койда",
+    "Alias": 81,
+    "Birthday": "18.06.2003",
+    "Stick_grip": "Правый",
+    "Height": 185,
+    "Weight": 85,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "striker",
+    "Name": "Артем Архипенко",
+    "Alias": 71,
+    "Birthday": "04.07.2007",
+    "Stick_grip": "Левый",
+    "Height": 181,
+    "Weight": 70,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "striker",
+    "Name": "Євген Секірко",
+    "Alias": 14,
+    "Birthday": "24.05.1988",
+    "Stick_grip": "Левый",
+    "Height": 181,
+    "Weight": 91,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "striker",
+    "Name": "Роман Дяченко",
+    "Alias": 7,
+    "Birthday": "17.08.2006",
+    "Stick_grip": "Левый",
+    "Height": 170,
+    "Weight": 63,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "striker",
+    "Name": "Владислав Луговий",
+    "Alias": 15,
+    "Birthday": "01.08.1995",
+    "Stick_grip": "Правый",
+    "Height": 183,
+    "Weight": 84,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "striker",
+    "Name": "Ярослав Панченко",
+    "Alias": 29,
+    "Birthday": "13.09.2001",
+    "Stick_grip": "Левый",
+    "Height": 180,
+    "Weight": 180,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "striker",
+    "Name": "Денис Плесовських",
+    "Alias": 97,
+    "Birthday": "11.08.2003",
+    "Stick_grip": "Левый",
+    "Height": 184,
+    "Weight": 67,
+    "Country": "Ukraine"
+  },
+  {
+    "Role": "striker",
+    "Name": "Олександр Валькун",
+    "Alias": 32,
+    "Birthday": "08.07.2006",
+    "Stick_grip": "Левый",
+    "Height": 185,
+    "Weight": 80,
+    "Country": "Ukraine"
+  }
+]
